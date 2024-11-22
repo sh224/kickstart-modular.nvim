@@ -1,0 +1,2 @@
+-- TODO: Rewrite in lua
+-- vim.cmd('source ~/.vim/tabline.vim')
